@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552004398 source:c:\users\kyu\desktop\codetest\algorithm\algorithm_study\c_algorithm\nhn_exercise01\main.cpp
+	<iostream>
+	<algorithm>
+
