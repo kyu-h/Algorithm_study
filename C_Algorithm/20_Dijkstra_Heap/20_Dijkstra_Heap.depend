@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552026253 source:c:\users\kyu\desktop\codetest\algorithm\algorithm_study\c_algorithm\20_dijkstra_heap\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
